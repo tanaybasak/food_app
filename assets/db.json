@@ -1,0 +1,79 @@
+
+[
+    {
+      "category": "Non-veg",
+      "food_items": [
+        {
+          "food": "Chicken",
+          "restaurants": [
+            { "name": "Fat Belly", "location": "Boragaon", "res_id": 1 },
+            { "name": "Maa Manasha", "location": "Maligaon", "res_id": 2 },
+            { "name": "4 Seasons Mall", "location": "Uzan Bazar", "res_id": 3 },
+            { "name": "Chick N Chilly", "location": "Maligaon", "res_id": 4 },
+            { "name": "Hyderabad Chefs", "location": "Jhalukbari", "res_id": 5 },
+            { "name": "KFC", "location": "Adabari Tinali", "res_id": 6 }
+          ],
+          "tags": [
+            "Chicken Chilly",
+            "Chicken Dry Fry",
+            "Chicken Kolhapuri",
+            "Chicken DakBunglow",
+            "Chicken Do Pyaza"
+          ]
+        },
+        {
+          "food": "Mutton",
+          "restaurants": [
+            { "name": "Fat Belly", "location": "Boragaon", "res_id": 1 },
+            { "name": "Maa Manasha", "location": "Maligaon", "res_id": 2 },
+            { "name": "4 Seasons Mall", "location": "Uzan Bazar", "res_id": 3 },
+            { "name": "Chick N Chilly", "location": "Maligaon", "res_id": 4 },
+            { "name": "Hyderabad Chefs", "location": "Jhalukbari", "res_id": 5 },
+            { "name": "KFC", "location": "Adabari Tinali", "res_id": 6 }
+          ],
+          "tags": [
+            "Mutton Kosha",
+            "Mutton Do Pyaza",
+            "Mutton Kolhapuri",
+            "Mutton Rogan Josh"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Veg",
+      "food_items": [
+        {
+          "food": "Paneer",
+          "restaurants": [
+            { "name": "Fat Belly", "location": "Boragaon", "res_id": 1 },
+            { "name": "Maa Manasha", "location": "Maligaon", "res_id": 2 },
+            { "name": "4 Seasons Mall", "location": "Uzan Bazar", "res_id": 3 },
+            { "name": "Chick N Chilly", "location": "Maligaon", "res_id": 4 },
+            { "name": "Hyderabad Chefs", "location": "Jhalukbari", "res_id": 5 },
+            { "name": "KFC", "location": "Adabari Tinali", "res_id": 6 }
+          ],
+          "tags": [
+            "Paneer Chilly",
+            "Paneer Dry Fry",
+            "Paneer Kolhapuri",
+            "Paneer DakBunglow"
+          ]
+        },
+        {
+          "food": "Veg kofta",
+          "restaurants": [
+            { "name": "Fat Belly", "location": "Boragaon", "res_id": 1 },
+            { "name": "Maa Manasha", "location": "Maligaon", "res_id": 2 },
+            { "name": "4 Seasons Mall", "location": "Uzan Bazar", "res_id": 3 },
+            { "name": "Chick N Chilly", "location": "Maligaon", "res_id": 4 },
+            { "name": "Hyderabad Chefs", "location": "Jhalukbari", "res_id": 5 },
+            { "name": "KFC", "location": "Adabari Tinali", "res_id": 6 }
+          ],
+          "tags": ["Veg Kofta Kosha", "Veg Kofta Do Pyaza", "Veg Kofta Kolhapuri"]
+        }
+      ]
+    }
+  ]
+  
+  
